@@ -1,0 +1,6 @@
+Can we use some of these?
+
+ConfigValue#origin
+ConfigValue#valueType
+ConfigValue#unwrapped
+ConfigValue#render
